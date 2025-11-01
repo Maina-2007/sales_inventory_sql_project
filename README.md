@@ -11,10 +11,10 @@ It highlights key SQL concepts such as joins, aggregations, and profit margin ca
 ## 📸 SQL Query Results
 
 ### 1️⃣ Top-Performing Products
-![Top Products](screenshots/1.Top_products.png)
+![Top Products](Screenshots/1.Top_products.png)
 
 ### 2️⃣ Profit by Region
-![Profit by Region](screenshots/2.Region_profit.png)
+![Profit by Region](Screenshots/2.Region_profit.png)
 
 ### 3️⃣ Profit Margin by Product and Category
 ![Profit Margin](Screenshots/3.Profit_margin.png)
