@@ -1,3 +1,13 @@
+# 🧾 GreenMart Sales & Inventory SQL Analysis
+
+This project showcases how SQL can be used to analyze business performance through sales, customer, and inventory data.  
+Using PostgreSQL, the project explores product profitability, regional performance, and customer insights — helping businesses make data-driven decisions.  
+It highlights key SQL concepts such as joins, aggregations, and profit margin calculations.
+
+> 🗄️ Tools Used: PostgreSQL · pgAdmin · SQL
+
+## 📘 Project Title
+**Sales and Inventory Analysis Using SQL**
 ## 📸 SQL Query Results
 
 ### 1️⃣ Top-Performing Products
